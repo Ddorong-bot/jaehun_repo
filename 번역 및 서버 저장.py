@@ -6,7 +6,7 @@ import time
 # ==========================================
 # [설정] 새로 발급받은 본인의 API 키를 입력하세요
 # ==========================================
-GEMINI_API_KEY = "AIzaSyDMsHjkG3tRRJICHlWBOSmcnK5zFmF_2ls"
+GEMINI_API_KEY = ""
 
 # 서버 주소
 SERVER_HOST = "http://localhost:8080"
