@@ -41,42 +41,7 @@
       "sourceName": "...",
       "sourceType": "SCRAPE",
       "categoryCode": "...",
-      "url": "...",
-      "title": "...",
-      "content": "...",
-      "publishedAt": "...",
-      "contentHash": "..."
-    },
-    {
-      "sourceName": "...",
-      "sourceType": "RSS",
-      "categoryCode": "...",
-      "url": "...",
-      "title": "...",
-      "content": "...",
-      "publishedAt": "...",
-      "contentHash": "..."
-    }
-  ]
-}  
-```
-
-## 번역된 json 파일 형식
-```
-{  
-  "articleId": "UUID",  
-  "languageTarget": "ko",  
-  "translatedTitle": "번역된 제목",  
-  "translatedContent": "번역된 본문",  
-  "summaryText": "요약 내용",  
-  "modelName": "gpt-4",  
-}  
-
-```
-
-
-## 기타 코드
-- 그냥 이런저런 실패하거나 시험삼아 해본 코드
-
+      "url": "...드
 ## result
 - 기본 코드의 결과물
+
